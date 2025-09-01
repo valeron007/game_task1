@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pytest
+SQLAlchemy
+charset-normalizer
+psycopg2-binary
+starlette
